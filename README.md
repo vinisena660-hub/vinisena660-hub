@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Vinícius!
 
-<!--
-**vinisena660-hub/vinisena660-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de *Análise e Desenvolvimento de Sistemas*  
+💡 Aprendendo *Lógica de Programação, Git, e Desenvolvimento Web*  
+⚡ Interessado em *projetos práticos* 
 
-Here are some ideas to get you started:
+## 🧰 Tecnologias que estou estudando:
+- HTML, CSS e JavaScript  
+- Git e GitHub  
+- Python (iniciando)  
+- Banco de dados (MySQL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Como me encontrar:
+- 💻 GitHub: [vinisena660-hub](https://github.com/vinisena660-hub)
